@@ -1,7 +1,7 @@
 
-CodeBook for "tidy_data_mean_std.txt" data set.
+#CodeBook for "tidy_data_mean_std.txt" data set.
 
-Below, under the double-hash lines, is the original description of the data set for the "Human Activity Recognition Using Smartphones Dataset", which was used to create the results in "tidy_data_mean_std.txt".  This original dataset is in 'long' format because there's more than one row per subject and activity.
+Below, under the double dollar-sign lines, is the original description of the data set for the "Human Activity Recognition Using Smartphones Dataset", which was used to create the results in "tidy_data_mean_std.txt".  This original dataset is in 'long' format because there's more than one row per subject and activity.
 
 The following description is what was done with this data for this Course Project in order to produce the file "tidy_data_mean_std.txt".  This final text file is in 'wide' format.
 
@@ -15,8 +15,8 @@ The following description is what was done with this data for this Course Projec
 6. This long format list was turned into a wide list by virtue of taking the mean of all the measurements in groups of activities and subjects.
 
 
-#####################################################################
-#####################################################################
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
