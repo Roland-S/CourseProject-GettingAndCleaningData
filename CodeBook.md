@@ -12,7 +12,7 @@ The following description is what was done with this data for this Course Projec
 3. subject_test.txt is the list of the people (subjects) who partook in the activities.
 4. A row header was added mainly using features.txt.
 5. Only the columns that were "mean" or "std" were extracted.
-6. This long format list was turned into a wide list by virtue of taking the mean of all the measurements in groups of activities and subjects.
+6. This long format list was turned into a wide list by virtue of taking the mean of all the measurements that were in the same group of activities and subjects.
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
